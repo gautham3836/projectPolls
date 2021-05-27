@@ -1,3 +1,3 @@
 # projectPolls
 
-This basically creates and adds new polls and count the votes of the polls.
+This basically creates new polls, count the votes of the polls and shows percentage of votes.
